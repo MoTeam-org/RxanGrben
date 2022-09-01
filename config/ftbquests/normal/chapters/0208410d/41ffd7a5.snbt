@@ -1,0 +1,32 @@
+{
+	x: -7.5d,
+	y: -9.0d,
+	dependencies: [
+		"61f9eeba"
+	],
+	tasks: [{
+		uid: "09221741",
+		type: "item",
+		items: [{
+			item: "botania:felpumpkin"
+		}]
+	},
+	{
+		uid: "29ce1fca",
+		type: "item",
+		items: [{
+			item: "chisel:ironpane"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "77fa54ba",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:diamond_sword"
+		}
+	}]
+}

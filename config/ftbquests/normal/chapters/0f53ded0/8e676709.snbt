@@ -1,0 +1,69 @@
+{
+	title: "你的第一把工具",
+	x: -7.5d,
+	y: -3.0d,
+	dependencies: [
+		"3d669772"
+	],
+	tasks: [{
+		uid: "ec739d63",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.5f,
+					FreeModifiers: 3,
+					Durability: 56,
+					HarvestLevel: 0,
+					Attack: 1.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.5f,
+					FreeModifiers: 3,
+					Durability: 56,
+					HarvestLevel: 0,
+					Attack: 1.5f
+				},
+				Special: {
+					Categories: [
+						"aoe",
+						"harvest",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"wood",
+						"wood"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"toolleveling"
+				]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

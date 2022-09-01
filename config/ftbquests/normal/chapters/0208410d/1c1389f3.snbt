@@ -1,0 +1,24 @@
+{
+	title: "空岛的矿物来源",
+	x: 2.0d,
+	y: -6.0d,
+	dependencies: [
+		"a2786ce3"
+	],
+	tasks: [{
+		uid: "b18476b9",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "orechid"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "c1377cb2",
+		type: "item",
+		item: "minecraft:stone",
+		count: 64
+	}]
+}

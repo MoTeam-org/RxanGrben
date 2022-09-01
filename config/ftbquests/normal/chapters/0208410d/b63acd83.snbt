@@ -1,0 +1,50 @@
+{
+	x: -6.0d,
+	y: -6.0d,
+	dependencies: [
+		"66b77e4e"
+	],
+	tasks: [{
+		uid: "f2dbd890",
+		type: "item",
+		items: [{
+			item: "botania:altar"
+		}]
+	},
+	{
+		uid: "b3bf2a76",
+		type: "item",
+		items: [{
+			item: "minecraft:bowl"
+		}]
+	},
+	{
+		uid: "df8c940c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:waterbowl",
+			tag: {
+				Fluid: {
+					FluidName: "water",
+					Amount: 1000
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "621b5a3b",
+		type: "item",
+		item: "minecraft:wheat_seeds",
+		count: 16
+	},
+	{
+		uid: "d30e0a26",
+		type: "item",
+		item: "extrabotany:elfjar"
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	x: 7.0d,
+	y: -2.5d,
+	dependencies: [
+		"ce3253fa"
+	],
+	tasks: [{
+		uid: "11f6e82a",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "munchdew"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "0070c773",
+		type: "item",
+		item: {
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "munchdew"
+			}
+		}
+	}]
+}

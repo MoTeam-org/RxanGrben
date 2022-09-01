@@ -1,0 +1,26 @@
+{
+	title: "盖亚Ⅱ",
+	x: 6.5d,
+	y: -1.5d,
+	dependencies: [
+		"ededc304"
+	],
+	tasks: [{
+		uid: "2a2ab680",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:dice"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "51e92f51",
+		type: "item",
+		item: "botania:manaresource 1 14",
+		count: 16
+	}]
+}

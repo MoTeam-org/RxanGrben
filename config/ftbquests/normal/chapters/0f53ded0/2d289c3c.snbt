@@ -1,0 +1,27 @@
+{
+	title: "批量烧石头",
+	x: -0.5d,
+	y: -4.5d,
+	dependencies: [
+		"80c808fa"
+	],
+	tasks: [{
+		uid: "13354a43",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "c8c81052",
+		type: "item",
+		item: {
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "lava"
+			},
+			Damage: 1s
+		}
+	}]
+}

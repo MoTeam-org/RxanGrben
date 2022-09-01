@@ -1,0 +1,18 @@
+{
+	title: "这可是个好东西",
+	x: 0.5d,
+	y: -2.5d,
+	dependencies: [
+		"ce3253fa"
+	],
+	tasks: [{
+		uid: "849df4f7",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "gourmaryllis"
+			}
+		}]
+	}]
+}

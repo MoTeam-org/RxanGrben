@@ -1,0 +1,22 @@
+{
+	title: "石头换大理石",
+	icon: "astralsorcery:blockmarble",
+	x: -7.5d,
+	y: -2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "bffe0bda",
+		type: "item",
+		items: [{
+			item: "extrautils2:compressedcobblestone"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "26006b7a",
+		type: "item",
+		item: "astralsorcery:blockmarble",
+		count: 64
+	}]
+}

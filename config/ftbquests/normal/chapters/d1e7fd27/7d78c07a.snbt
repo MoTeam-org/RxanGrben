@@ -1,0 +1,34 @@
+{
+	title: "无敌",
+	x: 14.5d,
+	y: -5.5d,
+	dependencies: [
+		"1dc5ba9e"
+	],
+	tasks: [{
+		uid: "ba23e95f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:spearsubspace",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0a5994be",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:mastermanaring",
+			tag: {
+				mana: 2147483646
+			}
+		}
+	}]
+}

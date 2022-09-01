@@ -1,0 +1,21 @@
+{
+	x: -7.5d,
+	y: -4.5d,
+	description: "推荐把所有泥土集中在一起再用花肥",
+	dependencies: [
+		"4d5ddfbc"
+	],
+	tasks: [{
+		uid: "19388a6b",
+		type: "item",
+		items: [{
+			item: "botania:fertilizer"
+		}]
+	}],
+	rewards: [{
+		uid: "3ff688d4",
+		type: "item",
+		item: "botania:fertilizer",
+		count: 16
+	}]
+}

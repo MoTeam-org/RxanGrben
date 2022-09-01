@@ -1,0 +1,67 @@
+{
+	title: "一些打盖亚的好东西",
+	x: 5.0d,
+	y: -3.0d,
+	dependencies: [
+		"ededc304"
+	],
+	tasks: [{
+		uid: "55cc9559",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:supertravelbelt"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d8f6ccc9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:flighttiara"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f8459bde",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:managun",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "14b2df10",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:lens",
+			tag: {},
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "56b61184",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "bellethorn"
+			}
+		}]
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	x: -9.0d,
+	y: -7.5d,
+	dependencies: [
+		"61f9eeba"
+	],
+	tasks: [{
+		uid: "e7a48530",
+		type: "item",
+		items: [{
+			item: "minecraft:dye 1 15"
+		}]
+	},
+	{
+		uid: "473d5a57",
+		type: "item",
+		items: [{
+			item: "botania:fertilizer"
+		}]
+	}],
+	rewards: [{
+		uid: "52ca2c7f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				Parent: [],
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:flowerbag"
+		}
+	}]
+}

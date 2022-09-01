@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: -3.0d,
+	dependencies: [
+		"ab4cf7e3"
+	],
+	tasks: [{
+		uid: "ea8a2bca",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials"
+		}]
+	}],
+	rewards: [{
+		uid: "75908150",
+		type: "item",
+		item: "tconstruct:seared_tank"
+	}]
+}

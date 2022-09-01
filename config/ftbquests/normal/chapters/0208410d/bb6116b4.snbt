@@ -1,0 +1,19 @@
+{
+	title: "最强产魔花",
+	x: 4.0d,
+	y: -2.5d,
+	description: "别想了，粘液块删了，别想着复制tnt了",
+	dependencies: [
+		"ce3253fa"
+	],
+	tasks: [{
+		uid: "fced5d8a",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "entropinnyum"
+			}
+		}]
+	}]
+}

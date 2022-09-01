@@ -1,0 +1,26 @@
+{
+	title: "双倍",
+	x: -2.5d,
+	y: -1.5d,
+	dependencies: [
+		"93927f8a"
+	],
+	tasks: [{
+		uid: "43f818e0",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "cd45cda9",
+		type: "item",
+		item: {
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "lava"
+			},
+			Damage: 1s
+		}
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "支线-匠魂",
+	icon: "tconstruct:soil",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

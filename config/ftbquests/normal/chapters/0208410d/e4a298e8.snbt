@@ -1,0 +1,24 @@
+{
+	x: -4.0d,
+	y: -3.0d,
+	dependencies: [
+		"cd4e167f",
+		"6a17a904"
+	],
+	tasks: [{
+		uid: "b4dc2dfe",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "24afbd20",
+		type: "item",
+		item: "storagedrawers:upgrade_storage 1 2",
+		count: 5
+	}]
+}

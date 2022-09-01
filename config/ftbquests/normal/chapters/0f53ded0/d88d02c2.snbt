@@ -1,0 +1,24 @@
+{
+	x: -2.5d,
+	y: -3.0d,
+	dependencies: [
+		"396fb5ff"
+	],
+	tasks: [{
+		uid: "ca57ecce",
+		type: "item",
+		items: [{
+			item: "tconstruct:cast_custom"
+		}]
+	}],
+	rewards: [{
+		uid: "4e8a3096",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:pick_head"
+			}
+		}
+	}]
+}

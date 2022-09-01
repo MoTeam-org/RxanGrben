@@ -1,0 +1,30 @@
+{
+	x: -8.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "2ffce2e4",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 20"
+		}],
+		count: 4L
+	},
+	{
+		uid: "9423cc49",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling"
+		}]
+	}],
+	rewards: [{
+		uid: "479cc3df",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:wateringcan",
+			Damage: 1000s
+		}
+	}]
+}

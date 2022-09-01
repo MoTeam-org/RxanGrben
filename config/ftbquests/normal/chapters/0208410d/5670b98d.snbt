@@ -1,0 +1,35 @@
+{
+	x: -7.5d,
+	y: -15.0d,
+	description: "用白雏菊净化灵魂沙就能得到沙子",
+	dependencies: [
+		"4e39e7eb"
+	],
+	tasks: [{
+		uid: "7af6b692",
+		type: "item",
+		items: [{
+			item: "minecraft:soul_sand"
+		}],
+		count: 64L
+	},
+	{
+		uid: "296dc003",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:lava_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ae720385",
+		type: "item",
+		items: [{
+			item: "minecraft:sand"
+		}]
+	}]
+}

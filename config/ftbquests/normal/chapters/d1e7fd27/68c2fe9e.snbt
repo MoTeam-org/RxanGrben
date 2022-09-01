@@ -1,0 +1,24 @@
+{
+	x: -1.5d,
+	y: -2.0d,
+	dependencies: [
+		"0fa4d710"
+	],
+	tasks: [{
+		uid: "27022dea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3a691c7f",
+		type: "item",
+		item: "astralsorcery:blockblackmarble",
+		count: 16
+	}]
+}

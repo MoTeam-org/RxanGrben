@@ -1,0 +1,27 @@
+{
+	x: 2.5d,
+	y: -2.5d,
+	dependencies: [
+		"ce3253fa"
+	],
+	tasks: [{
+		uid: "526572d6",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "arcanerose"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "4a057425",
+		type: "item",
+		item: {
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "arcanerose"
+			}
+		}
+	}]
+}

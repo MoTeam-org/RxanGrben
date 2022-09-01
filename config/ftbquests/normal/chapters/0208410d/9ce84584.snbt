@@ -1,0 +1,22 @@
+{
+	title: "高效获取沙砾",
+	x: 5.0d,
+	y: -7.5d,
+	description: "这个任务暂时做不了，先去过精灵门吧",
+	dependencies: [
+		"3201454d"
+	],
+	tasks: [{
+		uid: "69f57165",
+		type: "item",
+		items: [{
+			item: "botania:conjurationcatalyst"
+		}]
+	}],
+	rewards: [{
+		uid: "5e20d7ed",
+		type: "item",
+		item: "botania:blacklotus 1 1",
+		count: 16
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "是时候去地狱了",
+	x: -7.5d,
+	y: -13.5d,
+	dependencies: [
+		"4cc61629"
+	],
+	tasks: [{
+		uid: "18e78122",
+		type: "dimension",
+		dim: -1
+	}]
+}

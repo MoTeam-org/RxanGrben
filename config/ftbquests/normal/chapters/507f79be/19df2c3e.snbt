@@ -1,0 +1,30 @@
+{
+	title: "抽奖",
+	x: -0.5d,
+	y: -2.5d,
+	can_repeat: true,
+	size: 5.0d,
+	tasks: [{
+		uid: "eae1b781",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}]
+	}],
+	rewards: [{
+		uid: "014dfdf8",
+		type: "command",
+		command: "/say Hi, @team!"
+	},
+	{
+		uid: "fb685c0f",
+		type: "xp_levels",
+		xp_levels: 1000
+	},
+	{
+		uid: "22ac4042",
+		type: "item",
+		item: "minecraft:cooked_beef",
+		count: 16
+	}]
+}

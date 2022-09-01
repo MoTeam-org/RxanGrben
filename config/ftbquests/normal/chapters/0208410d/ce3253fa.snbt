@@ -1,0 +1,26 @@
+{
+	x: 4.0d,
+	y: -4.5d,
+	dependencies: [
+		"a2786ce3"
+	],
+	tasks: [{
+		uid: "efa23414",
+		type: "item",
+		items: [{
+			item: "botania:runealtar"
+		}]
+	}],
+	rewards: [{
+		uid: "3dec4b58",
+		type: "item",
+		item: "botania:livingrock",
+		count: 16
+	},
+	{
+		uid: "3cbaf7bc",
+		type: "item",
+		item: "botania:blacklotus 1 1",
+		count: 10
+	}]
+}

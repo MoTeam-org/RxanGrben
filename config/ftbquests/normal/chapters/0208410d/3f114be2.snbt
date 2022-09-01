@@ -1,0 +1,27 @@
+{
+	x: 8.0d,
+	y: -5.5d,
+	dependencies: [
+		"ce3253fa"
+	],
+	tasks: [{
+		uid: "62fbf6e6",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	},
+	{
+		uid: "a0063a30",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "ecab3a34",
+		type: "item",
+		item: "botania:blacklotus 1 1",
+		count: 16
+	}]
+}

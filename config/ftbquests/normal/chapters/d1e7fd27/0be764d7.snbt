@@ -1,0 +1,27 @@
+{
+	title: "星辉魔法必备物品",
+	x: -7.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "5bcc9c2b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "chisel:chisel_iron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e1f7dcca",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "chisel:chisel_iron"
+		}
+	}]
+}

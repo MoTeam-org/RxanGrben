@@ -1,0 +1,31 @@
+{
+	title: "最基础的发电机",
+	x: -6.0d,
+	y: -1.0d,
+	dependencies: [
+		"40df1766"
+	],
+	tasks: [{
+		uid: "bf6c73cf",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_survival"
+			}
+		}]
+	},
+	{
+		uid: "e48cddab",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_coal_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "b4e9dcd1",
+		type: "item",
+		item: "minecraft:coal",
+		count: 64
+	}]
+}

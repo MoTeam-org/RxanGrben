@@ -1,0 +1,17 @@
+{
+	x: -13.5d,
+	y: -2.5d,
+	dependencies: [
+		"e9e2a063"
+	],
+	tasks: [{
+		uid: "146ffbfd",
+		type: "fluid",
+		fluid: "creosote"
+	}],
+	rewards: [{
+		uid: "bd67fcf8",
+		type: "item",
+		item: "enderio:block_tank"
+	}]
+}

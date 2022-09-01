@@ -1,0 +1,35 @@
+{
+	title: "更好用的发电机",
+	x: -4.5d,
+	y: 0.5d,
+	dependencies: [
+		"9c42c4fd"
+	],
+	tasks: [{
+		uid: "f9e5db80",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_leaf_generator"
+		}]
+	},
+	{
+		uid: "0b6e57ec",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_heat_collector"
+		}]
+	},
+	{
+		uid: "efc5d477",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_oil_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "61a64cfc",
+		type: "item",
+		item: "actuallyadditions:item_canola_seed",
+		count: 16
+	}]
+}

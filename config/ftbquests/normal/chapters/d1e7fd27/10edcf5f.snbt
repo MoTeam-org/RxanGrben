@@ -1,0 +1,53 @@
+{
+	title: "星辉魔法矿物来源",
+	x: -6.0d,
+	y: -2.0d,
+	description: "啥？你问我水晶石怎么来？挖呗",
+	tasks: [{
+		uid: "5f898d7b",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:laser_base"
+		}]
+	},
+	{
+		uid: "8312821c",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:laser_drill"
+		}],
+		count: 4L,
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "780d240a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:laser_lens"
+		}
+	},
+	{
+		uid: "152973ad",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:laser_lens",
+			Damage: 3s
+		}
+	},
+	{
+		uid: "4ee17582",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemjournal"
+		}
+	}]
+}

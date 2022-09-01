@@ -1,0 +1,39 @@
+{
+	title: "为了更多的花肥，我想你不会拒绝一个刷怪塔的",
+	x: -7.5d,
+	y: -6.0d,
+	dependencies: [
+		"66b77e4e"
+	],
+	tasks: [{
+		uid: "008771f8",
+		type: "item",
+		items: [{
+			item: "minecraft:planks"
+		}],
+		count: 256L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "8f36c4fc",
+		type: "item",
+		item: "openblocks:fan",
+		count: 40
+	},
+	{
+		uid: "0eef3688",
+		type: "item",
+		item: "tconstruct:punji",
+		count: 4
+	},
+	{
+		uid: "5e3e54fa",
+		type: "item",
+		item: "openblocks:vacuum_hopper"
+	},
+	{
+		uid: "57ebbb38",
+		type: "item",
+		item: "storagedrawers:controller"
+	}]
+}

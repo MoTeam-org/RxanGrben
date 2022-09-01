@@ -1,0 +1,22 @@
+{
+	title: "自动化产矿",
+	x: 2.0d,
+	y: -7.5d,
+	dependencies: [
+		"1c1389f3"
+	],
+	tasks: [{
+		uid: "c99d18d7",
+		type: "item",
+		items: [{
+			item: "openblocks:block_placer"
+		}]
+	},
+	{
+		uid: "a3806fa2",
+		type: "item",
+		items: [{
+			item: "openblocks:block_breaker"
+		}]
+	}]
+}

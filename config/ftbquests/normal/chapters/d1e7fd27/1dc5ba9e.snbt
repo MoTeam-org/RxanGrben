@@ -1,0 +1,25 @@
+{
+	title: "去吧，战胜最强の魔法boss",
+	x: 13.5d,
+	y: -4.0d,
+	dependencies: [
+		"f2f4278d"
+	],
+	tasks: [{
+		uid: "73d77f60",
+		type: "item",
+		items: [{
+			item: "extrabotany:material 1 9"
+		}]
+	}],
+	rewards: [{
+		uid: "3796433e",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:coregod"
+		}
+	}]
+}

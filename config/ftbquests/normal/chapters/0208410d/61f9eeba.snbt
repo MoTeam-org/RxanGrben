@@ -1,0 +1,40 @@
+{
+	x: -7.5d,
+	y: -7.5d,
+	dependencies: [
+		"f2ac573f"
+	],
+	tasks: [{
+		uid: "15e48a99",
+		type: "item",
+		items: [{
+			item: "minecraft:bone"
+		}]
+	},
+	{
+		uid: "b4d57c02",
+		type: "item",
+		items: [{
+			item: "minecraft:rotten_flesh"
+		}]
+	},
+	{
+		uid: "9c0051e1",
+		type: "item",
+		items: [{
+			item: "minecraft:string"
+		}]
+	},
+	{
+		uid: "41cb23b5",
+		type: "item",
+		items: [{
+			item: "minecraft:gunpowder"
+		}]
+	}],
+	rewards: [{
+		uid: "f632c555",
+		type: "item",
+		item: "minecraft:pumpkin_seeds"
+	}]
+}

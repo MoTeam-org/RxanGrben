@@ -1,0 +1,22 @@
+{
+	title: "利用星能液可以全自动高效刷沙",
+	x: 1.5d,
+	y: -3.0d,
+	dependencies: [
+		"cf93b728"
+	],
+	tasks: [{
+		uid: "7ac6439d",
+		type: "item",
+		items: [{
+			item: "minecraft:sand"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "54660ebe",
+		type: "item",
+		item: "storagedrawers:compdrawers"
+	}]
+}

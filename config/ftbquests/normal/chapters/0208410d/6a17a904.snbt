@@ -1,0 +1,20 @@
+{
+	title: "做一点板条箱来存东西",
+	x: -5.5d,
+	y: -3.0d,
+	dependencies: [
+		"cd4e167f"
+	],
+	tasks: [{
+		uid: "2158a6bf",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_giant_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "18493634",
+		type: "item",
+		item: "actuallyadditions:block_giant_chest"
+	}]
+}

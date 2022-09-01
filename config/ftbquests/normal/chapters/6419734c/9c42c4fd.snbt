@@ -1,0 +1,20 @@
+{
+	x: -4.5d,
+	y: -1.0d,
+	dependencies: [
+		"42958bd0"
+	],
+	tasks: [{
+		uid: "a4a8d191",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_atomic_reconstructor"
+		}]
+	}],
+	rewards: [{
+		uid: "d0622a85",
+		type: "item",
+		item: "actuallyadditions:item_crystal 1 5",
+		count: 4
+	}]
+}

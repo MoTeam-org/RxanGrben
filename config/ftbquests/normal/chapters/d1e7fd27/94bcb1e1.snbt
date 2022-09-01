@@ -1,0 +1,34 @@
+{
+	x: -3.0d,
+	y: -3.5d,
+	dependencies: [
+		"bf484a4b"
+	],
+	tasks: [{
+		uid: "f13dd62e",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent 1 5"
+		}]
+	},
+	{
+		uid: "b805d85b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemconstellationpaper",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "87bf548f",
+		type: "item",
+		item: "astralsorcery:itemcraftingcomponent",
+		count: 16
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	x: -7.5d,
+	y: -10.5d,
+	dependencies: [
+		"41ffd7a5"
+	],
+	tasks: [{
+		uid: "f130c27c",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_powder"
+		}]
+	},
+	{
+		uid: "f77bfa4f",
+		type: "item",
+		items: [{
+			item: "botania:blazeblock"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "9def8ad9",
+		type: "item",
+		item: {
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "obsidian"
+			}
+		}
+	}]
+}

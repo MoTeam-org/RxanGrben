@@ -1,0 +1,62 @@
+{
+	x: -15.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "77434988",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 1 2"
+		}]
+	},
+	{
+		uid: "3075c4e2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:tool"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "03929425",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 2,
+					Items: []
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:skyhook"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "95c28bed",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:tool",
+			Damage: 3s
+		}
+	},
+	{
+		uid: "4543a55f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersivepetroleum:schematic",
+			tag: {
+				multiblock: "IE:AutoWorkbench"
+			}
+		}
+	}]
+}

@@ -1,0 +1,51 @@
+{
+	title: "空岛的沙砾来源",
+	x: 4.0d,
+	y: -6.0d,
+	dependencies: [
+		"a2786ce3"
+	],
+	tasks: [{
+		uid: "929cc4bd",
+		type: "item",
+		items: [{
+			item: "extrabotany:pedestal"
+		}]
+	},
+	{
+		uid: "ecfe2bb4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:manasteelhammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "591f7748",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}]
+	},
+	{
+		uid: "88f9648c",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}]
+	}],
+	rewards: [{
+		uid: "008c094e",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:elementiumhammer"
+		}
+	}]
+}

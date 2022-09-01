@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: -4.5d,
+	description: "啊？你问我魔力怎么提交？任务显示器是个好东西",
+	dependencies: [
+		"b9a0d888"
+	],
+	tasks: [{
+		uid: "d34388af",
+		type: "botania_mana",
+		value: 1000L
+	}],
+	rewards: [{
+		uid: "c9808c1a",
+		type: "item",
+		item: "botania:blacklotus 1 1",
+		count: 5
+	}]
+}

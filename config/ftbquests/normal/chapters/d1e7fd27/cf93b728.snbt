@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -3.0d,
+	dependencies: [
+		"68c2fe9e"
+	],
+	tasks: [{
+		uid: "24d6cdd9",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockwell"
+		}]
+	},
+	{
+		uid: "c925ce9c",
+		type: "fluid",
+		fluid: "astralsorcery.liquidstarlight"
+	}]
+}

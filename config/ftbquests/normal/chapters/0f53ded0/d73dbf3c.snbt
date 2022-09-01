@@ -1,0 +1,17 @@
+{
+	x: -11.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "4825819c",
+		type: "item",
+		items: [{
+			item: "tconstruct:pattern"
+		}]
+	}],
+	rewards: [{
+		uid: "987f2bf6",
+		type: "item",
+		item: "tconstruct:pattern",
+		count: 16
+	}]
+}

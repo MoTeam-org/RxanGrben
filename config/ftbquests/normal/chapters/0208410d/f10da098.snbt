@@ -1,0 +1,28 @@
+{
+	title: "高效产魔",
+	x: 5.5d,
+	y: -2.5d,
+	dependencies: [
+		"ce3253fa"
+	],
+	tasks: [{
+		uid: "537c9b39",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "thermalily"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "e99298a2",
+		type: "item",
+		item: {
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "thermalily"
+			}
+		}
+	}]
+}

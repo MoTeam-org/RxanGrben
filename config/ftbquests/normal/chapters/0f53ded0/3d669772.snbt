@@ -1,0 +1,72 @@
+{
+	title: "匠魂全家桶",
+	x: -9.0d,
+	y: -3.0d,
+	dependencies: [
+		"d73dbf3c"
+	],
+	tasks: [{
+		uid: "15c4e5a6",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables"
+		}]
+	},
+	{
+		uid: "2b1563fc",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "1848f2bd",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}]
+	},
+	{
+		uid: "4dd3c30d",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 4"
+		}]
+	},
+	{
+		uid: "fa1f2985",
+		type: "item",
+		items: [{
+			item: "conarm:armorstation"
+		}]
+	},
+	{
+		uid: "249407bd",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "c49778d5",
+		type: "item",
+		item: "tconstruct:pattern",
+		count: 16
+	}]
+}

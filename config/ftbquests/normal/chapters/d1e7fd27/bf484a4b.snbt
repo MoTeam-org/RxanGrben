@@ -1,0 +1,48 @@
+{
+	x: -4.5d,
+	y: -2.0d,
+	dependencies: [
+		"10edcf5f"
+	],
+	tasks: [{
+		uid: "f2c5cb81",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemrockcrystalsimple",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 400,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "71071ebb",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent"
+		}]
+	}],
+	rewards: [{
+		uid: "39b1892d",
+		type: "item",
+		item: "astralsorcery:blockcustomore",
+		count: 16
+	},
+	{
+		uid: "e78992a5",
+		type: "item",
+		item: "astralsorcery:blockcustomsandore",
+		count: 16
+	}]
+}

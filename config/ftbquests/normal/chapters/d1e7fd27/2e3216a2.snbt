@@ -1,0 +1,14 @@
+{
+	title: "星辉魔法不是本包重点，剩下的自行尝试吧",
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "a1d17ef0",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "731985db",
+		type: "item",
+		item: "astralsorcery:blockcelestialcrystals 1 4"
+	}]
+}

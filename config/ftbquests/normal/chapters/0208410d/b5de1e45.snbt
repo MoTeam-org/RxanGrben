@@ -1,0 +1,22 @@
+{
+	title: "刷石头吧骚年",
+	x: -9.5d,
+	y: -15.0d,
+	dependencies: [
+		"5670b98d"
+	],
+	tasks: [{
+		uid: "40951ed1",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 256L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "574d06dd",
+		type: "item",
+		item: "openblocks:block_breaker"
+	}]
+}

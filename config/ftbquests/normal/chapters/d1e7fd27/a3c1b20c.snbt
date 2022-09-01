@@ -1,0 +1,45 @@
+{
+	title: "植魔最强物品",
+	x: 12.5d,
+	y: -1.5d,
+	dependencies: [
+		"7edea2ea"
+	],
+	tasks: [{
+		uid: "c2698c42",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:excaliber",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c15e109a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:mastermanaring",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "23a844dd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:judahoath"
+		}],
+		ignore_nbt: 1b
+	}]
+}

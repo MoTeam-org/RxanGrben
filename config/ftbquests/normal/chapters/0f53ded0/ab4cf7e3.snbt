@@ -1,0 +1,20 @@
+{
+	x: -5.5d,
+	y: -3.0d,
+	dependencies: [
+		"8e676709"
+	],
+	tasks: [{
+		uid: "26595ec9",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil"
+		}]
+	}],
+	rewards: [{
+		uid: "fbf1e2df",
+		type: "item",
+		title: "64",
+		item: "tconstruct:soil"
+	}]
+}

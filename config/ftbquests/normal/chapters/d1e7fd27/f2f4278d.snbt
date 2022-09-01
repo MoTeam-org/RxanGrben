@@ -1,0 +1,27 @@
+{
+	title: "杀了这么多盖亚Ⅲ是个狠人，给你点好东西",
+	x: 12.5d,
+	y: -3.0d,
+	dependencies: [
+		"7edea2ea"
+	],
+	tasks: [{
+		uid: "1a1075e7",
+		type: "item",
+		items: [{
+			item: "extrabotany:material 1 3"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "7f7d702f",
+		type: "item",
+		item: "botania:pool 1 1"
+	},
+	{
+		uid: "2a50ae55",
+		type: "item",
+		item: "extrabotany:material 1 9"
+	}]
+}

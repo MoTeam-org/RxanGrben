@@ -1,0 +1,28 @@
+{
+	x: -13.5d,
+	y: -4.5d,
+	dependencies: [
+		"70782de8"
+	],
+	tasks: [{
+		uid: "edb5ab67",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration"
+		}],
+		count: 27L
+	},
+	{
+		uid: "4530468c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "14df641f",
+		type: "item",
+		item: "minecraft:coal",
+		count: 64
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "来打盖亚",
+	x: 3.5d,
+	y: -1.5d,
+	dependencies: [
+		"c8b6601c"
+	],
+	tasks: [{
+		uid: "388f208f",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 2"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "db7b8422",
+		type: "item",
+		item: "minecraft:beacon"
+	}]
+}

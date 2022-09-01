@@ -1,0 +1,33 @@
+{
+	x: -3.0d,
+	y: -4.5d,
+	dependencies: [
+		"4b0b98ef"
+	],
+	tasks: [{
+		uid: "da631104",
+		type: "item",
+		items: [{
+			item: "botania:livingwood"
+		}]
+	},
+	{
+		uid: "78497f3e",
+		type: "item",
+		items: [{
+			item: "botania:livingrock"
+		}]
+	}],
+	rewards: [{
+		uid: "6526dac5",
+		type: "item",
+		item: "botania:livingwood",
+		count: 16
+	},
+	{
+		uid: "50af499d",
+		type: "item",
+		item: "botania:livingrock",
+		count: 16
+	}]
+}

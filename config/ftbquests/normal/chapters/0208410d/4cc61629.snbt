@@ -1,0 +1,21 @@
+{
+	x: -7.5d,
+	y: -12.0d,
+	description: "用白雏菊净化烈焰网即可得到黑曜石",
+	dependencies: [
+		"d5503d0e"
+	],
+	tasks: [{
+		uid: "751a8152",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "de5450f1",
+		type: "item",
+		item: "minecraft:fire_charge"
+	}]
+}

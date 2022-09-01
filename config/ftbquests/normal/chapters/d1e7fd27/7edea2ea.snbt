@@ -1,0 +1,23 @@
+{
+	title: "下一个就是你，盖亚Ⅲ！",
+	x: 10.5d,
+	y: -1.5d,
+	dependencies: [
+		"fc9bfc8a"
+	],
+	tasks: [{
+		uid: "22ba846a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:natureorb",
+			tag: {
+				xp: 500000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

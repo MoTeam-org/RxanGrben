@@ -1,0 +1,27 @@
+{
+	title: "好东西",
+	x: 4.5d,
+	y: 2.0d,
+	dependencies: [
+		"f58b941b"
+	],
+	tasks: [{
+		uid: "f57cb701",
+		type: "item",
+		items: [{
+			item: "botania:rfgenerator"
+		}]
+	}],
+	rewards: [{
+		uid: "640c8acf",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:lens",
+			tag: {},
+			Damage: 6s
+		}
+	}]
+}

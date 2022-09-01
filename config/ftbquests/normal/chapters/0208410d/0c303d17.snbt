@@ -1,0 +1,20 @@
+{
+	title: "无限水",
+	x: 6.0d,
+	y: -4.5d,
+	dependencies: [
+		"ce3253fa"
+	],
+	tasks: [{
+		uid: "97e50eaa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:waterrod"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

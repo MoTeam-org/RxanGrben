@@ -1,0 +1,27 @@
+{
+	x: -8.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "e70a48d9",
+		type: "checkmark",
+		title: "任务显示器"
+	}],
+	rewards: [{
+		uid: "72d5e2c6",
+		type: "item",
+		item: {
+			id: "ftbquests:screen",
+			tag: {
+				BlockEntityTag: {
+					Size: 1b,
+					id: "ftbquests:screen_core"
+				},
+				display: {
+					Lore: [
+						"(+NBT)"
+					]
+				}
+			}
+		}
+	}]
+}
