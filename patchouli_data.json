@@ -1,0 +1,46 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "alchemistry:alchemistry_book": {
+      "viewedEntries": [
+        "alchemistry:electrolyzer/electrolyzer_overview",
+        "alchemistry:evaporator/evaporator_overview",
+        "alchemistry:fission/fission_overview",
+        "alchemistry:fission/fission_template"
+      ],
+      "bookmarks": [],
+      "history": [
+        "alchemistry:fission/fission_template",
+        "alchemistry:fission/fission_overview",
+        "alchemistry:evaporator/evaporator_overview",
+        "alchemistry:electrolyzer/electrolyzer_overview"
+      ],
+      "completedManualQuests": []
+    },
+    "pneumaticcraft:book": {
+      "viewedEntries": [
+        "pneumaticcraft:base_concepts/oil",
+        "pneumaticcraft:base_concepts/getting_started",
+        "pneumaticcraft:base_concepts/upgrades",
+        "pneumaticcraft:base_concepts/pressure",
+        "pneumaticcraft:base_concepts/basic_materials",
+        "pneumaticcraft:machines/liquid_hopper",
+        "pneumaticcraft:machines/omnidirectional_hopper",
+        "pneumaticcraft:tubes/pressure_tubes"
+      ],
+      "bookmarks": [],
+      "history": [
+        "pneumaticcraft:tubes/pressure_tubes",
+        "pneumaticcraft:machines/omnidirectional_hopper",
+        "pneumaticcraft:machines/liquid_hopper",
+        "pneumaticcraft:base_concepts/basic_materials",
+        "pneumaticcraft:base_concepts/pressure",
+        "pneumaticcraft:base_concepts/upgrades",
+        "pneumaticcraft:base_concepts/getting_started",
+        "pneumaticcraft:base_concepts/oil"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
