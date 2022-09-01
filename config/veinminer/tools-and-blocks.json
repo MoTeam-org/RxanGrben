@@ -1,0 +1,135 @@
+{
+  "tools": {
+    "axe": {
+      "name": "Axe",
+      "icon": "minecraft:diamond_axe",
+      "toollist": [
+        "minecraft:diamond_axe",
+        "minecraft:golden_axe",
+        "minecraft:iron_axe",
+        "minecraft:stone_axe",
+        "minecraft:wooden_axe"
+      ],
+      "blocklist": [
+        "aether_legacy:aether_leaves",
+        "aether_legacy:aether_log",
+        "aether_legacy:crystal_leaves",
+        "aether_legacy:holiday_leaves",
+        "atum:deadwood_leaves/0",
+        "atum:deadwood_log/0",
+        "atum:palm_leaves/0",
+        "atum:palm_log/0",
+        "betternether:stalagnate_stem/0",
+        "minecraft:fence",
+        "minecraft:leaves",
+        "minecraft:leaves2",
+        "minecraft:log",
+        "minecraft:log2",
+        "twilightforest:dark_leaves",
+        "twilightforest:magic_leaves",
+        "twilightforest:magic_log",
+        "twilightforest:twilight_leaves",
+        "twilightforest:twilight_leaves_3",
+        "twilightforest:twilight_log"
+      ]
+    },
+    "hoe": {
+      "name": "Hoe",
+      "icon": "minecraft:diamond_hoe",
+      "toollist": [
+        "minecraft:diamond_hoe",
+        "minecraft:golden_hoe",
+        "minecraft:iron_hoe",
+        "minecraft:stone_hoe",
+        "minecraft:wooden_hoe"
+      ],
+      "blocklist": [
+        "minecraft:carrots",
+        "minecraft:melon_block",
+        "minecraft:potatoes",
+        "minecraft:pumpkin",
+        "minecraft:wheat"
+      ]
+    },
+    "pickaxe": {
+      "name": "Pickaxe",
+      "icon": "minecraft:diamond_pickaxe",
+      "toollist": [
+        "minecraft:diamond_pickaxe",
+        "minecraft:golden_pickaxe",
+        "minecraft:iron_pickaxe",
+        "minecraft:stone_pickaxe",
+        "minecraft:wooden_pickaxe"
+      ],
+      "blocklist": [
+        "aether_legacy:ambrosium_ore/0",
+        "aether_legacy:gravitite_ore/0",
+        "aether_legacy:zanite_ore/0",
+        "atum:bone_ore/0",
+        "atum:coal_ore/0",
+        "atum:diamond_ore/0",
+        "atum:emerald_ore/0",
+        "atum:gold_ore/0",
+        "atum:iron_ore/0",
+        "atum:lapis_ore/0",
+        "atum:redstone_ore/0",
+        "atum:relic_ore/0",
+        "betternether:cincinnasite_ore/0",
+        "minecraft:coal_ore",
+        "minecraft:cobblestone_wall",
+        "minecraft:diamond_ore",
+        "minecraft:emerald_ore",
+        "minecraft:glowstone",
+        "minecraft:gold_ore",
+        "minecraft:iron_ore",
+        "minecraft:lapis_ore",
+        "minecraft:lit_redstone_ore",
+        "minecraft:mossy_cobblestone",
+        "minecraft:nether_brick_fence",
+        "minecraft:obsidian",
+        "minecraft:quartz_ore",
+        "minecraft:redstone_ore"
+      ]
+    },
+    "shears": {
+      "name": "Shears",
+      "icon": "minecraft:shears",
+      "toollist": [
+        "minecraft:shears"
+      ],
+      "blocklist": [
+        "aether_legacy:aether_leaves",
+        "aether_legacy:crystal_leaves",
+        "aether_legacy:holiday_leaves",
+        "atum:deadwood_leaves/0",
+        "atum:palm_leaves/0",
+        "minecraft:deadbush",
+        "minecraft:leaves",
+        "minecraft:leaves2",
+        "minecraft:tallgrass",
+        "minecraft:vine",
+        "minecraft:web",
+        "minecraft:wool",
+        "twilightforest:dark_leaves",
+        "twilightforest:magic_leaves",
+        "twilightforest:twilight_leaves",
+        "twilightforest:twilight_leaves_3"
+      ]
+    },
+    "shovel": {
+      "name": "Shovel",
+      "icon": "minecraft:diamond_shovel",
+      "toollist": [
+        "minecraft:diamond_shovel",
+        "minecraft:golden_shovel",
+        "minecraft:iron_shovel",
+        "minecraft:stone_shovel",
+        "minecraft:wooden_shovel"
+      ],
+      "blocklist": [
+        "minecraft:clay",
+        "minecraft:gravel"
+      ]
+    }
+  }
+}
