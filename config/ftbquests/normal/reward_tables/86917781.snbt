@@ -1,0 +1,16 @@
+{
+	title: "匠魂材料",
+	loot_size: 1,
+	rewards: [{
+		item: "taiga:basalt_block"
+	},
+	{
+		item: "taiga:tiberium_ore"
+	},
+	{
+		item: "taiga:aurorium_ore"
+	},
+	{
+		item: "taiga:prometheum_ore"
+	}]
+}
