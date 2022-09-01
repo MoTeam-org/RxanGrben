@@ -1,0 +1,25 @@
+{
+    "renders": [
+        "ks/bg",
+        "ks/banner",
+        "ks/progress_base",
+        "ks/loading_bar_white",
+        "ks/percentage_text",
+        "ks/progress_text",
+        "ks/progress_text_sub",
+        "ks/time_passed_text",
+        "ks/mojang_logo",
+        "ks/ram_bar",
+        "ks/memory_text_left",
+        "ks/memory_text_right",
+        "ks/tips"
+    ],
+    "variables": {
+        "mem_percent": "((floor(memory_used() * 100) + 0.0) / (floor(memory_max() * 100) + 0.0))",
+        "mem_color": "(mem_percent < 0.7) ? 0x64dd17 : ((mem_percent < 0.8) ? 0xffeb3b : ((mem_percent < 0.9) ? 0xffc400 : 0xff5252))"
+    },
+    "functions": [],
+    "factories": [
+    ],
+    "actions": []
+}
