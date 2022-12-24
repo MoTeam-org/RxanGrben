@@ -1,4 +1,4 @@
-//电弧炉合成
+//关于有关电弧炉的相关魔改配方介绍
 //mods.immersiveengineering.ArcFurnace.addRecipe(输出, 输入, 炉渣, 时间(tick), 每tick能量消耗, 催化剂(可选), 特殊配方类型(可选));
 
 import crafttweaker.item.IItemStack;
