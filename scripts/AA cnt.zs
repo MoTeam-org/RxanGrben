@@ -1,3 +1,5 @@
+//以上内容归于xiaomiao所有
+//此魔改仅用于魔改RxanGrben整合包
 //mods.actuallyadditions.Empowerer.removeRecipe();
 
 mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:item_crystal_empowered>);
